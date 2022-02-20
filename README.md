@@ -1,6 +1,6 @@
 # Cormen Lib Sample Problems
 ## Description
-This repository contnains sample problems with test cases using [Cormen-Lib](https://pypi.org/project/cormen-lib/1.0.2/). These problems were made for the purpose of showing how the Cormen-Lib assignment construction, distribution, and grading is done. 
+This repository contnains sample problems with test cases using [Cormen-Lib](https://pypi.org/project/cormen-lib/1.0.2/). These problems were made for the purpose of showing how the Cormen-Lib assignment construction, distribution, and grading is done. In every folder there is a README, a problems file, a skeleton, and a test file. The README file lists the problem statements. The problems file has sample solutions to each problem in the README, and the test file contains Cormen-Lib test cases. Finally, the skeleton can be used as an example for distribution to students.
 
 ## Installation
 
