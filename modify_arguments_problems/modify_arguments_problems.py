@@ -1,4 +1,4 @@
-from cormen_lib.arrays import Array
+from dalpy.arrays import Array
 
 
 # ************************** DO NOT MODIFY ABOVE THIS LINE ******************************

@@ -1,8 +1,8 @@
 import math
 import unittest
 
-from cormen_lib.factory_utils import make_array
-from cormen_lib.test_utils import build_and_run_watched_suite, behavior_test
+from dalpy.factory_utils import make_array
+from dalpy.test_utils import build_and_run_watched_suite, behavior_test
 
 from queue_problems import BoundedDeque, BoundedDequeOverflowError, BoundedDequeUnderflowError, \
     TimedQueue, \

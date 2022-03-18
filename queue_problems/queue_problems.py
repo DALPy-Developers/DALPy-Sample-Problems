@@ -1,8 +1,8 @@
 import math
-from cormen_lib.arrays import Array
-from cormen_lib.stacks import Stack
-from cormen_lib.queues import Queue
-from cormen_lib.linked_lists import SinglyLinkedListNode, DoublyLinkedListNode
+from dalpy.arrays import Array
+from dalpy.stacks import Stack
+from dalpy.queues import Queue
+from dalpy.linked_lists import SinglyLinkedListNode, DoublyLinkedListNode
 
 
 # ************************** DO NOT MODIFY ABOVE THIS LINE ******************************
