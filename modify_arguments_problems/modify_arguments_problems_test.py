@@ -1,8 +1,7 @@
-import math
 import unittest
 
 from dalpy.factory_utils import make_array
-from dalpy.test_utils import build_and_run_watched_suite, behavior_test, generic_test
+from dalpy.test_utils import build_and_run_watched_suite, generic_test
 
 from modify_arguments_problems import duplicate_array, duplicate_array_incorrect
 
