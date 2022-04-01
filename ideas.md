@@ -51,3 +51,7 @@ You have to implement this as a Python class that supports the following functio
 * Get the keys of the `OrderedHashTable` in the order in which they were inserted.
 
 *Note:* If a key was removed, then reinserted, it should be placed at the end (i.e. not in its original place).
+
+## Linear Interpolation of Sorted Array
+
+Given a sorted `Array` of tuples of the form `(x, y)` and a point `x`, find `y` by linear interpolation fits two nearest points.
